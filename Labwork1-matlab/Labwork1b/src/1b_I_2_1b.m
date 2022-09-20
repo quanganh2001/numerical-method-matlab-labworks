@@ -1,4 +1,5 @@
 ﻿% ©2021 HP.
+ % Use plot to graph the following functions: y = tan(x/2) for -pi <= x <= pi, -10 <= y <= 10. (Hint: first draw the plot; then use axis).
 clc;
 clear;
 clf;
