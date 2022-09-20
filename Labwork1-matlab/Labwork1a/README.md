@@ -857,7 +857,7 @@ The result of d1 and d2 are 0.1169
 
 Write a script to calculate:
 
-a) Combination of a set ($C_{k}^{n} = \frac{n!}{k!(n - k)!})$
+a) Combination of a set $(C_{k}^{n} = \frac{n!}{k!(n - k)!})$
 
 b) Permutation of a set $(A_{n}^{k} = \frac{n!}{(n - k)!})$
 
