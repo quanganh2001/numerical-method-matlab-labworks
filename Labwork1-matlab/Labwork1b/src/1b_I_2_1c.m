@@ -1,4 +1,5 @@
 ﻿% ©2021 HP.
+ % Use plot to graph the following functions: y = e^{-x/2} and y = x^4 - x^2 for -1.5 <= x <= 1.5 (on the same set of axes).
 clc;
 clear;
 clf;
