@@ -5,7 +5,7 @@ clf;
 
 f = @(x) x^2 - 9;
 
-x0 = -2;
+x0 = 2;
 x = fzero(f,x0)
 
 hold on
