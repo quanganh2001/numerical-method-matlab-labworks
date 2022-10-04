@@ -4,9 +4,7 @@
 
 Solve the system of linear equation:
 
-$$
-\left\{\begin{matrix}2x + y - z = 8 \\-3x - y + 2z = -11 \\-2x + y + 2z = -3 \\\end{matrix}\right.
-$$
+[![image.png](https://i.postimg.cc/tg9gtwD4/image.png)](https://postimg.cc/QFnsj6R2)
 
 a) using *inv* or *mldivide* in Matlab
 
@@ -193,9 +191,7 @@ x =
 
 Solve the following set of equations with LU factorization with pivoting
 
-$$
-\left\{\begin{matrix}2x + y - z = 8 \\-3x - y + 2z = -11 \\-2x + y + 2z = -3 \\\end{matrix}\right.
-$$
+[![image.png](https://i.postimg.cc/dDMs7xLv/image.png)](https://postimg.cc/q6LVSQsZ)
 
 a) Using function *lu* in Matlab
 
