@@ -8,8 +8,8 @@ B = [8; -11; -3];
 
 
 % b) Using function LU_pivot
-%[L1, U1, P1] = LU_pivot(A);
-[L1, U1, P1] = LU_pivot_Describe(A);
+[L1, U1, P1] = LU_pivot(A);
+%[L1, U1, P1] = LU_pivot_Describe(A);
 
 B1 = P1*B
 d1 = L1\B1;
