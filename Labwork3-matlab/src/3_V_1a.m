@@ -7,6 +7,6 @@ b = [8; -11; -3]
 
 A1 = inv(A) * b
 
-x = midivide(A, b)
+x = mldivide(A, b)
 
 x = A\b
