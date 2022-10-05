@@ -183,7 +183,7 @@ x =
    3
   -1
 ```
-
+If we change value in second row matrix is -2, it was NaN mean cannot solve this equation.
 # VI. LU Decomposition
 
 ## Exercise 2: LU decomposition
