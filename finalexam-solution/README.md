@@ -136,7 +136,7 @@ Value of y of x = 0, 1, 2, ... , 30:  Columns 1 through 16:
    37   39   41   43   45   47   49   51   53   55   57   59   61   63   65
 ```
 
-![Untitled](images/Untitled.png)
+![Untitled](images/plot_2dplane.png)
 
 d. Write a script file to solve equation $\sqrt{x} - x + 1 = 0$ using ***************solve***************. Note that the equation to be solved is specified as a string; Get the numerical solutions using function ******double******?
 
